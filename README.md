@@ -1,5 +1,7 @@
 # React-TodoList
 
+## Live :- https://react-todolist-kevalr.vercel.app/
+
 ## Data Source
 - At the time of rendering todolist is fetched from jsonplaceholder.typicode.com
 
@@ -11,4 +13,3 @@
 - shows the todolist from jsonplaceholder api
 - create, update, delete todos
 - marks todos status as completed, pending
--
